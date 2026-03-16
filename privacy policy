@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>プライバシーポリシー - Swahili Learner</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; line-height: 1.7; }
+    h1 { color: #00897b; border-bottom: 2px solid #00897b; padding-bottom: 10px; }
+    h2 { color: #00796b; margin-top: 30px; }
+    p, li { font-size: 15px; }
+    a { color: #00897b; }
+    footer { margin-top: 50px; color: #888; font-size: 13px; }
+  </style>
+</head>
+<body>
+  <h1>プライバシーポリシー</h1>
+  <p>本プライバシーポリシーは、Swahili Learner（以下「本アプリ」）における個人情報の取り扱いについて説明します。</p>
+
+  <h2>収集する情報</h2>
+  <p>本アプリは以下の情報を収集する場合があります：</p>
+  <ul>
+    <li>広告配信のためのデバイス識別情報（Google AdMobを通じて）</li>
+    <li>アプリの利用状況に関する統計情報（クラッシュレポートなど）</li>
+  </ul>
+
+  <h2>広告について</h2>
+  <p>本アプリはGoogle AdMobを使用して広告を表示します。AdMobはお客様のデバイスに関する情報を収集し、関連性の高い広告を表示するために使用することがあります。</p>
+  <p>詳細はGoogleのプライバシーポリシーをご確認ください：<br>
+  <a href="https://policies.google.com/privacy" target="_blank">https://policies.google.com/privacy</a></p>
+
+  <h2>情報の利用目的</h2>
+  <ul>
+    <li>アプリの機能提供および改善</li>
+    <li>広告の表示</li>
+    <li>アプリのバグ修正・品質向上</li>
+  </ul>
+
+  <h2>第三者への情報提供</h2>
+  <p>本アプリは、法令に基づく場合を除き、収集した個人情報を第三者に提供することはありません。ただし、広告配信のためGoogleに情報が提供される場合があります。</p>
+
+  <h2>お子様のプライバシー</h2>
+  <p>本アプリは13歳未満のお子様を対象としていません。13歳未満のお子様の個人情報を意図的に収集することはありません。</p>
+
+  <h2>情報の保管</h2>
+  <p>学習の進捗データ（覚えた単語、メモなど）はお使いのデバイス内にのみ保存されます。サーバーへの送信は行いません。</p>
+
+  <h2>プライバシーポリシーの変更</h2>
+  <p>本ポリシーは必要に応じて更新されることがあります。重要な変更がある場合はアプリ内でお知らせします。</p>
+
+  <h2>お問い合わせ</h2>
+  <p>プライバシーに関するご質問は、以下までお問い合わせください：<br>
+  <strong>開発者：</strong> Tatsuhiro Hashikawa<br>
+  <strong>メール：</strong> <a href="mailto:tatsuhirohashikawa@gmail.com">tatsuhirohashikawa@gmail.com</a></p>
+
+  <footer>
+    <p>最終更新日：2026年3月17日</p>
+  </footer>
+</body>
+</html>
